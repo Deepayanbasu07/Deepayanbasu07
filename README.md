@@ -24,7 +24,7 @@
 - 🔬 Passionate about **AI for Science** with focus on materials discovery
 - 🌱 Building tools for climate action through **ML-powered solutions**
 - 🎸 Lead guitarist & event head at **Sangam Music Society**, IITJ
-- ⚡ Fun fact: Can name all elements of the periodic table in under 90 seconds!
+
 </p>
 
 ---
